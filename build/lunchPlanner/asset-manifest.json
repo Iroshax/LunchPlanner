@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81eec848.css",
+    "main.js": "/static/js/main.c747f743.js",
+    "static/js/453.f461808c.chunk.js": "/static/js/453.f461808c.chunk.js",
+    "static/media/lunch-time.png": "/static/media/lunch-time.650658ca6fcfe059cbe3.png",
+    "index.html": "/index.html",
+    "main.81eec848.css.map": "/static/css/main.81eec848.css.map",
+    "main.c747f743.js.map": "/static/js/main.c747f743.js.map",
+    "453.f461808c.chunk.js.map": "/static/js/453.f461808c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81eec848.css",
+    "static/js/main.c747f743.js"
+  ]
+}
