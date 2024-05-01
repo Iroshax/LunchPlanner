@@ -17,17 +17,4 @@ class LunchPlannerApplicationTests {
 	void contextLoads() {
 	}
 
-	/*@Test
-	public void shouldReturnPortfolioData() {
-
-		BigDecimal portfolioValue = new BigDecimal("43213");
-		Portfolio expectedPortfolio = new Portfolio(1,"John Doe", "1001", portfolioValue, 23.4, "Safe");
-
-		when(portfolioRepository.findById(anyInt())).thenReturn(Optional.of(expectedPortfolio));
-		PortfolioDto actualPortfolio = portfolioService.getPortfolio(1);
-		// Assert
-		assertEquals(expectedPortfolio.getCustomerName(), actualPortfolio.getCustomerName());
-	}
-	*/
-
 }
